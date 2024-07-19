@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ketankani.github.io/sitemap
+Sitemap: https://ketankani.github.io/app/sitemap
+Sitemap: https://ketankani.github.io/assets/sitemap
+Sitemap: https://ketankani.github.io/css/sitemap
+Sitemap: https://ketankani.github.io/includes/sitemap
+Sitemap: https://ketankani.github.io/item/sitemap
+Sitemap: https://ketankani.github.io/src/sitemap
